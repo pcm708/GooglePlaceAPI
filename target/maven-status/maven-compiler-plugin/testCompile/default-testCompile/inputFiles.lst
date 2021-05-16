@@ -1,0 +1,12 @@
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\deserialization\get\Location.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\serialization\post\Location.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\crudOperations\Crud.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\utils\Params.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\crudOperations\PostPlace.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\utils\RequestBody.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\crudOperations\GetPlace.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\deserialization\post\PostPlaceResponse.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\deserialization\post\Location.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\deserialization\delete\DeletePlaceResponse.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\deserialization\get\GetPlaceResponse.java
+D:\eclipse-workspace\restapi-workspace\PlaceAPI\src\test\java\serialization\post\PlaceBody.java

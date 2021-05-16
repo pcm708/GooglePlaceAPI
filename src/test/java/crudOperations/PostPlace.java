@@ -1,10 +1,11 @@
 package crudOperations;
+import static utils.RequestBody.getBody;
+
 import deserialization.post.PostPlaceResponse;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import utils.Params;
-import static utils.RequestBody.*;
 
 public class PostPlace {
 	
